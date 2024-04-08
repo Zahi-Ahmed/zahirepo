@@ -1,3 +1,3 @@
 # zahirepo
  git repository.
- Authon - zahiahm
+ Author - zahiahm
